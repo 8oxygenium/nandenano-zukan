@@ -3,7 +3,7 @@
 小学生がふと思う「なんで？」に、1ページ1問でやさしく答える **静的HTMLの教育辞典サイト** です。
 
 - サイト名：なんでなの？図鑑
-- 想定ドメイン：`https://nandenano-zukan.com/`（取得・接続前提。未確定の場合は後述の手順でURLを置換）
+- 公開ドメイン：`https://nandenano.kikaku-note.com/`（Cloudflare Pages 接続済み。別ドメインへ移す場合は後述の手順でURLを一括置換）
 - 技術：静的HTML + 共通CSS + 最小JavaScript（ビルド工程なし）
 - ホスティング：Cloudflare Pages（ビルドなし配信）
 
@@ -123,7 +123,7 @@ nandenano-zukan/
 - [ ] OGP・canonical の最終確認
 
 > ドメインを変更する場合は、全 `*.html` と `sitemap.xml` / `robots.txt` 内の
-> `https://nandenano-zukan.com` を新URLへ一括置換してください（置換前に `git diff` を確認）。
+> `https://nandenano.kikaku-note.com` を新URLへ一括置換してください（置換前に `git diff` を確認）。
 
 ---
 

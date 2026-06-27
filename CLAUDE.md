@@ -23,7 +23,7 @@
 - `kikaku-note.com` の既存リポジトリを触る。
 - `takaosugiyama.com` / `kanen0naruki.com` と混ぜる・相互リンクする。
 - NAS 上で直接 Git 作業する。
-- 勝手にドメインを「取得確定」した前提で書く（URLは `nandenano-zukan.com` を仮の本番URLとして使用。変更時は一括置換）。
+- 勝手にドメインを「取得確定」した前提で書く（URLは `nandenano.kikaku-note.com` を仮の本番URLとして使用。変更時は一括置換）。
 - 存在しない GA4 ID / AdSense ID / 仮ID（`dummy` `sample` `YOUR_` `仮`）を残す。
 - 出典URLを捏造する。画像素材を無断流用する。
 - 子どもの個人情報・顔写真を扱う。コメント欄・ログイン・投稿フォームを作る。

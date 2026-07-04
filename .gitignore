@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+
+# 内部作業ファイル(Claude Code用指示文書)。本番デプロイ対象から除外。
+CLAUDE.md
